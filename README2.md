@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my journey, skills, and projects as an aspiring Software Engineer. Built with a clean and responsive design using HTML, CSS, and JS.
 
 Live Site
-[View My Portfolio](https://shann404.github.io/Portfolio-Hackathon-PLP/)
+[View My Portfolio](vermillion-zabaione-bac183.netlify.app)
 
 ---
 Sections
