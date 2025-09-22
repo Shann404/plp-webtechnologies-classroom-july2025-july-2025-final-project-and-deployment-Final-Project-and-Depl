@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my journey, skills, and projects as an aspiring Software Engineer. Built with a clean and responsive design using HTML, CSS, and JS.
 
 Live Site
-[View My Portfolio](vermillion-zabaione-bac183.netlify.app)
+[View My Portfolio](https://vermillion-zabaione-bac183.netlify.app/)
 
 ---
 Sections
